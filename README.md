@@ -1,0 +1,2 @@
+# Project_9_IMDB_Review_Classification_with_RNN_LSTM
+IMDB Movie Rating 
